@@ -1,0 +1,802 @@
+[
+    {
+        "product_id": 123456,
+        "product_name": "Bananas",
+        "price": 22.5,
+        "lead_time": 3,
+        "current_stock": 80,
+        "daily_demand": 15
+    },
+    {
+        "product_id": 234567,
+        "product_name": "Apples",
+        "price": 34.6,
+        "lead_time": 4,
+        "current_stock": 90,
+        "daily_demand": 18
+    },
+    {
+        "product_id": 345678,
+        "product_name": "Oranges",
+        "price": 19.8,
+        "lead_time": 5,
+        "current_stock": 75,
+        "daily_demand": 20
+    },
+    {
+        "product_id": 456789,
+        "product_name": "Pears",
+        "price": 45.2,
+        "lead_time": 6,
+        "current_stock": 50,
+        "daily_demand": 10
+    },
+    {
+        "product_id": 567890,
+        "product_name": "Peaches",
+        "price": 29.9,
+        "lead_time": 7,
+        "current_stock": 65,
+        "daily_demand": 17
+    },
+    {
+        "product_id": 678901,
+        "product_name": "Plums",
+        "price": 55.3,
+        "lead_time": 4,
+        "current_stock": 85,
+        "daily_demand": 16
+    },
+    {
+        "product_id": 789012,
+        "product_name": "Kiwi",
+        "price": 33.4,
+        "lead_time": 5,
+        "current_stock": 95,
+        "daily_demand": 12
+    },
+    {
+        "product_id": 890123,
+        "product_name": "Strawberries",
+        "price": 42.7,
+        "lead_time": 6,
+        "current_stock": 70,
+        "daily_demand": 19
+    },
+    {
+        "product_id": 901234,
+        "product_name": "Blueberries",
+        "price": 37.2,
+        "lead_time": 3,
+        "current_stock": 60,
+        "daily_demand": 13
+    },
+    {
+        "product_id": 123789,
+        "product_name": "Raspberries",
+        "price": 23.4,
+        "lead_time": 7,
+        "current_stock": 55,
+        "daily_demand": 14
+    },
+    {
+        "product_id": 234890,
+        "product_name": "Grapes",
+        "price": 40.5,
+        "lead_time": 4,
+        "current_stock": 80,
+        "daily_demand": 11
+    },
+    {
+        "product_id": 345901,
+        "product_name": "Pineapple",
+        "price": 47.8,
+        "lead_time": 6,
+        "current_stock": 45,
+        "daily_demand": 15
+    },
+    {
+        "product_id": 456012,
+        "product_name": "Watermelon",
+        "price": 50.2,
+        "lead_time": 5,
+        "current_stock": 75,
+        "daily_demand": 18
+    },
+    {
+        "product_id": 567123,
+        "product_name": "Cantaloupe",
+        "price": 38.7,
+        "lead_time": 7,
+        "current_stock": 90,
+        "daily_demand": 17
+    },
+    {
+        "product_id": 678234,
+        "product_name": "Honeydew",
+        "price": 44.6,
+        "lead_time": 3,
+        "current_stock": 65,
+        "daily_demand": 16
+    },
+    {
+        "product_id": 789345,
+        "product_name": "Cherries",
+        "price": 39.1,
+        "lead_time": 4,
+        "current_stock": 70,
+        "daily_demand": 19
+    },
+    {
+        "product_id": 890456,
+        "product_name": "Blackberries",
+        "price": 43.3,
+        "lead_time": 5,
+        "current_stock": 60,
+        "daily_demand": 20
+    },
+    {
+        "product_id": 901567,
+        "product_name": "Mangoes",
+        "price": 36.9,
+        "lead_time": 6,
+        "current_stock": 55,
+        "daily_demand": 13
+    },
+    {
+        "product_id": 123098,
+        "product_name": "Avocados",
+        "price": 31.7,
+        "lead_time": 7,
+        "current_stock": 85,
+        "daily_demand": 14
+    },
+    {
+        "product_id": 234109,
+        "product_name": "Lemons",
+        "price": 28.5,
+        "lead_time": 3,
+        "current_stock": 75,
+        "daily_demand": 11
+    },
+    {
+        "product_id": 345210,
+        "product_name": "Limes",
+        "price": 32.8,
+        "lead_time": 4,
+        "current_stock": 45,
+        "daily_demand": 15
+    },
+    {
+        "product_id": 456321,
+        "product_name": "Grapefruit",
+        "price": 41.2,
+        "lead_time": 5,
+        "current_stock": 95,
+        "daily_demand": 18
+    },
+    {
+        "product_id": 567432,
+        "product_name": "Tangerines",
+        "price": 27.9,
+        "lead_time": 6,
+        "current_stock": 50,
+        "daily_demand": 17
+    },
+    {
+        "product_id": 678543,
+        "product_name": "Pomegranates",
+        "price": 46.4,
+        "lead_time": 7,
+        "current_stock": 65,
+        "daily_demand": 16
+    },
+    {
+        "product_id": 789654,
+        "product_name": "Coconuts",
+        "price": 33.6,
+        "lead_time": 3,
+        "current_stock": 70,
+        "daily_demand": 19
+    },
+    {
+        "product_id": 890765,
+        "product_name": "Dates",
+        "price": 35.1,
+        "lead_time": 4,
+        "current_stock": 60,
+        "daily_demand": 20
+    },
+    {
+        "product_id": 901876,
+        "product_name": "Figs",
+        "price": 39.3,
+        "lead_time": 5,
+        "current_stock": 55,
+        "daily_demand": 13
+    },
+    {
+        "product_id": 123987,
+        "product_name": "Apricots",
+        "price": 44.8,
+        "lead_time": 6,
+        "current_stock": 85,
+        "daily_demand": 14
+    },
+    {
+        "product_id": 234098,
+        "product_name": "Nectarines",
+        "price": 37.5,
+        "lead_time": 7,
+        "current_stock": 75,
+        "daily_demand": 11
+    },
+    {
+        "product_id": 345189,
+        "product_name": "Guavas",
+        "price": 40.9,
+        "lead_time": 3,
+        "current_stock": 45,
+        "daily_demand": 15
+    },
+    {
+        "product_id": 456210,
+        "product_name": "Lychees",
+        "price": 48.2,
+        "lead_time": 4,
+        "current_stock": 95,
+        "daily_demand": 18
+    },
+    {
+        "product_id": 567321,
+        "product_name": "Papayas",
+        "price": 43.7,
+        "lead_time": 5,
+        "current_stock": 50,
+        "daily_demand": 17
+    },
+    {
+        "product_id": 678432,
+        "product_name": "Passionfruit",
+        "price": 52.6,
+        "lead_time": 6,
+        "current_stock": 65,
+        "daily_demand": 16
+    },
+    {
+        "product_id": 789543,
+        "product_name": "Pineberries",
+        "price": 47.1,
+        "lead_time": 7,
+        "current_stock": 70,
+        "daily_demand": 19
+    },
+    {
+        "product_id": 890654,
+        "product_name": "Starfruit",
+        "price": 51.3,
+        "lead_time": 3,
+        "current_stock": 60,
+        "daily_demand": 20
+    },
+    {
+        "product_id": 901765,
+        "product_name": "Dragonfruit",
+        "price": 44.9,
+        "lead_time": 4,
+        "current_stock": 55,
+        "daily_demand": 13
+    },
+    {
+        "product_id": 123876,
+        "product_name": "Durian",
+        "price": 39.7,
+        "lead_time": 5,
+        "current_stock": 85,
+        "daily_demand": 14
+    },
+    {
+        "product_id": 234987,
+        "product_name": "Jackfruit",
+        "price": 36.5,
+        "lead_time": 6,
+        "current_stock": 75,
+        "daily_demand": 11
+    },
+    {
+        "product_id": 345098,
+        "product_name": "Rambutan",
+        "price": 40.8,
+        "lead_time": 7,
+        "current_stock": 45,
+        "daily_demand": 15
+    },
+    {
+        "product_id": 456189,
+        "product_name": "Soursop",
+        "price": 49.2,
+        "lead_time": 3,
+        "current_stock": 95,
+        "daily_demand": 18
+    },
+    {
+        "product_id": 567210,
+        "product_name": "Breadfruit",
+        "price": 35.9,
+        "lead_time": 4,
+        "current_stock": 50,
+        "daily_demand": 17
+    },
+    {
+        "product_id": 678321,
+        "product_name": "Pomelo",
+        "price": 54.4,
+        "lead_time": 5,
+        "current_stock": 65,
+        "daily_demand": 16
+    },
+    {
+        "product_id": 789432,
+        "product_name": "Longan",
+        "price": 41.6,
+        "lead_time": 6,
+        "current_stock": 70,
+        "daily_demand": 19
+    },
+    {
+        "product_id": 890543,
+        "product_name": "Feijoa",
+        "price": 43.1,
+        "lead_time": 7,
+        "current_stock": 60,
+        "daily_demand": 20
+    },
+    {
+        "product_id": 901654,
+        "product_name": "Kumquat",
+        "price": 47.3,
+        "lead_time": 3,
+        "current_stock": 55,
+        "daily_demand": 13
+    },
+    {
+        "product_id": 123765,
+        "product_name": "Jujube",
+        "price": 52.8,
+        "lead_time": 4,
+        "current_stock": 85,
+        "daily_demand": 14
+    },
+    {
+        "product_id": 234876,
+        "product_name": "Kiwano",
+        "price": 45.5,
+        "lead_time": 5,
+        "current_stock": 75,
+        "daily_demand": 11
+    },
+    {
+        "product_id": 345987,
+        "product_name": "Chayote",
+        "price": 48.9,
+        "lead_time": 6,
+        "current_stock": 45,
+        "daily_demand": 15
+    },
+    {
+        "product_id": 456098,
+        "product_name": "Tamarind",
+        "price": 56.2,
+        "lead_time": 7,
+        "current_stock": 95,
+        "daily_demand": 18
+    },
+    {
+        "product_id": 567189,
+        "product_name": "Quince",
+        "price": 51.7,
+        "lead_time": 3,
+        "current_stock": 50,
+        "daily_demand": 17
+    },
+    {
+        "product_id": 678210,
+        "product_name": "Guinep",
+        "price": 60.6,
+        "lead_time": 4,
+        "current_stock": 65,
+        "daily_demand": 16
+    },
+    {
+        "product_id": 789321,
+        "product_name": "Salak",
+        "price": 55.1,
+        "lead_time": 5,
+        "current_stock": 70,
+        "daily_demand": 19
+    },
+    {
+        "product_id": 890432,
+        "product_name": "Santol",
+        "price": 59.3,
+        "lead_time": 6,
+        "current_stock": 60,
+        "daily_demand": 20
+    },
+    {
+        "product_id": 901543,
+        "product_name": "Yuzu",
+        "price": 52.9,
+        "lead_time": 7,
+        "current_stock": 55,
+        "daily_demand": 13
+    },
+    {
+        "product_id": 123654,
+        "product_name": "Miracle Fruit",
+        "price": 47.7,
+        "lead_time": 3,
+        "current_stock": 85,
+        "daily_demand": 14
+    },
+    {
+        "product_id": 234765,
+        "product_name": "Persimmon",
+        "price": 44.5,
+        "lead_time": 4,
+        "current_stock": 75,
+        "daily_demand": 11
+    },
+    {
+        "product_id": 345876,
+        "product_name": "Jabuticaba",
+        "price": 48.8,
+        "lead_time": 5,
+        "current_stock": 45,
+        "daily_demand": 15
+    },
+    {
+        "product_id": 456987,
+        "product_name": "Pitanga",
+        "price": 57.2,
+        "lead_time": 6,
+        "current_stock": 95,
+        "daily_demand": 18
+    },
+    {
+        "product_id": 567098,
+        "product_name": "Sapodilla",
+        "price": 42.9,
+        "lead_time": 7,
+        "current_stock": 50,
+        "daily_demand": 17
+    },
+    {
+        "product_id": 678189,
+        "product_name": "Surinam Cherry",
+        "price": 61.4,
+        "lead_time": 3,
+        "current_stock": 65,
+        "daily_demand": 16
+    },
+    {
+        "product_id": 789210,
+        "product_name": "Acerola",
+        "price": 48.6,
+        "lead_time": 4,
+        "current_stock": 70,
+        "daily_demand": 19
+    },
+    {
+        "product_id": 890321,
+        "product_name": "Cupua\u00e7u",
+        "price": 50.1,
+        "lead_time": 5,
+        "current_stock": 60,
+        "daily_demand": 20
+    },
+    {
+        "product_id": 901432,
+        "product_name": "Mangosteen",
+        "price": 54.3,
+        "lead_time": 6,
+        "current_stock": 55,
+        "daily_demand": 13
+    },
+    {
+        "product_id": 123543,
+        "product_name": "Medlar",
+        "price": 59.8,
+        "lead_time": 7,
+        "current_stock": 85,
+        "daily_demand": 14
+    },
+    {
+        "product_id": 234654,
+        "product_name": "Pawpaw",
+        "price": 52.5,
+        "lead_time": 3,
+        "current_stock": 75,
+        "daily_demand": 11
+    },
+    {
+        "product_id": 345765,
+        "product_name": "Buddha's Hand",
+        "price": 55.9,
+        "lead_time": 4,
+        "current_stock": 45,
+        "daily_demand": 15
+    },
+    {
+        "product_id": 456876,
+        "product_name": "Carambola",
+        "price": 63.2,
+        "lead_time": 5,
+        "current_stock": 95,
+        "daily_demand": 18
+    },
+    {
+        "product_id": 567987,
+        "product_name": "Monstera Deliciosa",
+        "price": 58.7,
+        "lead_time": 6,
+        "current_stock": 50,
+        "daily_demand": 17
+    },
+    {
+        "product_id": 678098,
+        "product_name": "Cherimoya",
+        "price": 67.6,
+        "lead_time": 7,
+        "current_stock": 65,
+        "daily_demand": 16
+    },
+    {
+        "product_id": 789189,
+        "product_name": "Mamey Sapote",
+        "price": 54.1,
+        "lead_time": 3,
+        "current_stock": 70,
+        "daily_demand": 19
+    },
+    {
+        "product_id": 890210,
+        "product_name": "Salmonberries",
+        "price": 55.6,
+        "lead_time": 4,
+        "current_stock": 60,
+        "daily_demand": 20
+    },
+    {
+        "product_id": 901321,
+        "product_name": "Thimbleberries",
+        "price": 59.8,
+        "lead_time": 5,
+        "current_stock": 55,
+        "daily_demand": 13
+    },
+    {
+        "product_id": 123432,
+        "product_name": "Boysenberries",
+        "price": 65.3,
+        "lead_time": 6,
+        "current_stock": 85,
+        "daily_demand": 14
+    },
+    {
+        "product_id": 234543,
+        "product_name": "Loganberries",
+        "price": 58.0,
+        "lead_time": 7,
+        "current_stock": 75,
+        "daily_demand": 11
+    },
+    {
+        "product_id": 345654,
+        "product_name": "Gooseberries",
+        "price": 61.4,
+        "lead_time": 3,
+        "current_stock": 45,
+        "daily_demand": 15
+    },
+    {
+        "product_id": 456765,
+        "product_name": "Mulberries",
+        "price": 69.7,
+        "lead_time": 4,
+        "current_stock": 95,
+        "daily_demand": 18
+    },
+    {
+        "product_id": 567876,
+        "product_name": "Huckleberries",
+        "price": 65.2,
+        "lead_time": 5,
+        "current_stock": 50,
+        "daily_demand": 17
+    },
+    {
+        "product_id": 678987,
+        "product_name": "Lingonberries",
+        "price": 74.1,
+        "lead_time": 6,
+        "current_stock": 65,
+        "daily_demand": 16
+    },
+    {
+        "product_id": 789098,
+        "product_name": "Elderberries",
+        "price": 60.6,
+        "lead_time": 7,
+        "current_stock": 70,
+        "daily_demand": 19
+    },
+    {
+        "product_id": 890189,
+        "product_name": "Chokeberries",
+        "price": 62.1,
+        "lead_time": 3,
+        "current_stock": 60,
+        "daily_demand": 20
+    },
+    {
+        "product_id": 901210,
+        "product_name": "Serviceberries",
+        "price": 66.3,
+        "lead_time": 4,
+        "current_stock": 55,
+        "daily_demand": 13
+    },
+    {
+        "product_id": 123321,
+        "product_name": "Barberries",
+        "price": 71.8,
+        "lead_time": 5,
+        "current_stock": 85,
+        "daily_demand": 14
+    },
+    {
+        "product_id": 234432,
+        "product_name": "Bearberries",
+        "price": 64.5,
+        "lead_time": 6,
+        "current_stock": 75,
+        "daily_demand": 11
+    },
+    {
+        "product_id": 345543,
+        "product_name": "Bilberries",
+        "price": 67.9,
+        "lead_time": 7,
+        "current_stock": 45,
+        "daily_demand": 15
+    },
+    {
+        "product_id": 456654,
+        "product_name": "Cloudberry",
+        "price": 76.2,
+        "lead_time": 3,
+        "current_stock": 95,
+        "daily_demand": 18
+    },
+    {
+        "product_id": 567765,
+        "product_name": "Crowberry",
+        "price": 71.7,
+        "lead_time": 4,
+        "current_stock": 50,
+        "daily_demand": 17
+    },
+    {
+        "product_id": 678876,
+        "product_name": "Hackberry",
+        "price": 80.6,
+        "lead_time": 5,
+        "current_stock": 65,
+        "daily_demand": 16
+    },
+    {
+        "product_id": 789987,
+        "product_name": "Juneberry",
+        "price": 67.1,
+        "lead_time": 6,
+        "current_stock": 70,
+        "daily_demand": 19
+    },
+    {
+        "product_id": 890098,
+        "product_name": "Nannyberry",
+        "price": 68.6,
+        "lead_time": 7,
+        "current_stock": 60,
+        "daily_demand": 20
+    },
+    {
+        "product_id": 901189,
+        "product_name": "Soapberry",
+        "price": 72.8,
+        "lead_time": 3,
+        "current_stock": 55,
+        "daily_demand": 13
+    },
+    {
+        "product_id": 123210,
+        "product_name": "Snowberry",
+        "price": 78.3,
+        "lead_time": 4,
+        "current_stock": 85,
+        "daily_demand": 14
+    },
+    {
+        "product_id": 234321,
+        "product_name": "Wolfberry",
+        "price": 71.0,
+        "lead_time": 5,
+        "current_stock": 75,
+        "daily_demand": 11
+    },
+    {
+        "product_id": 345432,
+        "product_name": "Yumberry",
+        "price": 74.4,
+        "lead_time": 6,
+        "current_stock": 45,
+        "daily_demand": 15
+    },
+    {
+        "product_id": 456543,
+        "product_name": "Ziziphus",
+        "price": 82.7,
+        "lead_time": 7,
+        "current_stock": 95,
+        "daily_demand": 18
+    },
+    {
+        "product_id": 567654,
+        "product_name": "Maqui Berry",
+        "price": 78.2,
+        "lead_time": 3,
+        "current_stock": 50,
+        "daily_demand": 17
+    },
+    {
+        "product_id": 678765,
+        "product_name": "Sea Buckthorn",
+        "price": 87.1,
+        "lead_time": 4,
+        "current_stock": 65,
+        "daily_demand": 16
+    },
+    {
+        "product_id": 789876,
+        "product_name": "Goji Berry",
+        "price": 73.6,
+        "lead_time": 5,
+        "current_stock": 70,
+        "daily_demand": 19
+    },
+    {
+        "product_id": 890987,
+        "product_name": "Acai Berry",
+        "price": 75.1,
+        "lead_time": 6,
+        "current_stock": 60,
+        "daily_demand": 20
+    },
+    {
+        "product_id": 901098,
+        "product_name": "Golden Berry",
+        "price": 79.3,
+        "lead_time": 7,
+        "current_stock": 55,
+        "daily_demand": 13
+    },
+    {
+        "product_id": 123109,
+        "product_name": "Elderberry",
+        "price": 84.8,
+        "lead_time": 3,
+        "current_stock": 85,
+        "daily_demand": 14
+    }
+]

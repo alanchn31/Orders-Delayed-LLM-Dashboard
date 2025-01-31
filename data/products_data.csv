@@ -1,0 +1,101 @@
+product_id,product_name,price,lead_time,current_stock,daily_demand,cogs,expedited_price,days_of_inventory,supplier
+123456,Bananas,22.5,3,80,15,17.31,21.023224812032417,5,FreshHarvest Suppliers
+234567,Apples,34.6,4,90,18,19.07,25.571553989903528,5,Evergreen Provisions
+345678,Oranges,19.8,5,100,20,12.84,18.46939826185248,5,Evergreen Provisions
+456789,Pears,45.2,6,60,10,29.5,33.95093706772196,6,FreshHarvest Suppliers
+567890,Peaches,29.9,7,119,17,17.71,22.00219522358559,7,Golden Grain Distributors
+678901,Plums,55.3,4,85,16,40.55,63.803712832699,5,FreshHarvest Suppliers
+789012,Kiwi,33.4,5,95,12,24.95,34.85007884102312,7,Golden Grain Distributors
+890123,Strawberries,42.7,6,114,19,23.81,29.9046579118076,6,Golden Grain Distributors
+901234,Blueberries,37.2,3,60,13,29.61,48.24112915335062,4,Evergreen Provisions
+123789,Raspberries,23.4,7,98,14,17.91,21.160177685713048,7,Golden Grain Distributors
+234890,Grapes,40.5,4,80,11,30.42,44.94937263735326,7,FreshHarvest Suppliers
+345901,Pineapple,47.8,6,90,15,34.92,60.006515061355024,6,FreshHarvest Suppliers
+456012,Watermelon,50.2,5,90,18,37.39,64.48343609059361,5,FreshHarvest Suppliers
+567123,Cantaloupe,38.7,7,119,17,29.81,48.13266463985192,7,FreshHarvest Suppliers
+678234,Honeydew,44.6,3,65,16,27.81,38.15954879688282,4,Golden Grain Distributors
+789345,Cherries,39.1,4,76,19,20.27,35.81762383714072,4,FreshHarvest Suppliers
+890456,Blackberries,43.3,5,100,20,34.63,44.85120444226379,5,FreshHarvest Suppliers
+901567,Mangoes,36.9,6,78,13,27.5,42.3890906198972,6,Evergreen Provisions
+123098,Avocados,31.7,7,98,14,21.09,36.34783615296555,7,Evergreen Provisions
+234109,Lemons,28.5,3,75,11,16.82,20.03506968503215,6,Golden Grain Distributors
+345210,Limes,32.8,4,60,15,22.93,34.863326830376494,4,FreshHarvest Suppliers
+456321,Grapefruit,41.2,5,95,18,20.96,37.01910870668762,5,FreshHarvest Suppliers
+567432,Tangerines,27.9,6,102,17,20.77,33.43558716935153,6,Evergreen Provisions
+678543,Pomegranates,46.4,7,112,16,27.25,42.55205137739938,7,Golden Grain Distributors
+789654,Coconuts,33.6,3,70,19,18.34,30.43314590044471,3,Evergreen Provisions
+890765,Dates,35.1,4,80,20,22.64,31.458380972094226,4,Golden Grain Distributors
+901876,Figs,39.3,5,65,13,21.07,31.65795314248114,5,Evergreen Provisions
+123987,Apricots,44.8,6,85,14,30.81,39.99015268652514,6,FreshHarvest Suppliers
+234098,Nectarines,37.5,7,77,11,24.48,43.70842129547703,7,FreshHarvest Suppliers
+345189,Guavas,40.9,3,45,15,31.47,56.613712716742654,3,FreshHarvest Suppliers
+456210,Lychees,48.2,4,95,18,28.71,51.62316086199056,5,FreshHarvest Suppliers
+567321,Papayas,43.7,5,85,17,26.4,30.919673305848157,5,Golden Grain Distributors
+678432,Passionfruit,52.6,6,96,16,29.09,46.4770217893049,6,FreshHarvest Suppliers
+789543,Pineberries,47.1,7,133,19,28.65,44.555683183878614,7,Golden Grain Distributors
+890654,Starfruit,51.3,3,60,20,37.52,57.19403633883992,3,FreshHarvest Suppliers
+901765,Dragonfruit,44.9,4,55,13,33.03,40.3482605151746,4,FreshHarvest Suppliers
+123876,Durian,39.7,5,85,14,31.66,45.8449536662851,6,FreshHarvest Suppliers
+234987,Jackfruit,36.5,6,75,11,23.06,32.544932962527426,6,FreshHarvest Suppliers
+345098,Rambutan,40.8,7,105,15,22.24,30.903436244369352,7,Golden Grain Distributors
+456189,Soursop,49.2,3,95,18,31.24,41.49240659391092,5,FreshHarvest Suppliers
+567210,Breadfruit,35.9,4,68,17,24.66,28.9099430525056,4,FreshHarvest Suppliers
+678321,Pomelo,54.4,5,80,16,35.45,41.63948793423406,5,FreshHarvest Suppliers
+789432,Longan,41.6,6,114,19,30.83,34.690249853612094,6,Golden Grain Distributors
+890543,Feijoa,43.1,7,140,20,29.35,52.78908219869672,7,FreshHarvest Suppliers
+901654,Kumquat,47.3,3,55,13,36.1,50.239943586246056,4,Evergreen Provisions
+123765,Jujube,52.8,4,85,14,33.79,51.104308746283586,6,FreshHarvest Suppliers
+234876,Kiwano,45.5,5,75,11,30.59,38.398716640176154,6,FreshHarvest Suppliers
+345987,Chayote,48.9,6,90,15,29.9,45.640042316005314,6,Evergreen Provisions
+456098,Tamarind,56.2,7,126,18,39.57,62.61196793910276,7,Evergreen Provisions
+567189,Quince,51.7,3,51,17,40.91,54.62916837617773,3,FreshHarvest Suppliers
+678210,Guinep,60.6,4,65,16,39.11,58.486906761632085,4,Evergreen Provisions
+789321,Salak,55.1,5,95,19,30.37,40.7210038682173,5,Evergreen Provisions
+890432,Santol,59.3,6,120,20,43.08,47.655058592497575,6,Golden Grain Distributors
+901543,Yuzu,52.9,7,91,13,34.42,39.22869547781654,7,Evergreen Provisions
+123654,Miracle Fruit,47.7,3,85,14,35.21,46.04335891458405,6,Golden Grain Distributors
+234765,Persimmon,44.5,4,75,11,27.66,37.134365121714616,6,FreshHarvest Suppliers
+345876,Jabuticaba,48.8,5,75,15,38.37,55.10366239098809,5,Evergreen Provisions
+456987,Pitanga,57.2,6,108,18,35.74,40.41887980907799,6,Golden Grain Distributors
+567098,Sapodilla,42.9,7,119,17,30.3,51.465975797633725,7,Golden Grain Distributors
+678189,Surinam Cherry,61.4,3,65,16,41.62,60.398082834001585,4,Evergreen Provisions
+789210,Acerola,48.6,4,76,19,30.54,39.78135184700348,4,FreshHarvest Suppliers
+890321,Cupuaçu,50.1,5,100,20,32.61,58.22865350853032,5,Golden Grain Distributors
+901432,Mangosteen,54.3,6,78,13,34.36,59.51793274260891,6,Evergreen Provisions
+123543,Medlar,59.8,7,98,14,42.97,70.28781027607556,7,FreshHarvest Suppliers
+234654,Pawpaw,52.5,3,75,11,28.74,42.26772752653003,6,Evergreen Provisions
+345765,Buddha's Hand,55.9,4,60,15,28.86,44.08816188407157,4,FreshHarvest Suppliers
+456876,Carambola,63.2,5,95,18,50.12,83.15688384279852,5,Evergreen Provisions
+567987,Monstera Deliciosa,58.7,6,102,17,32.89,43.37642542692048,6,Evergreen Provisions
+678098,Cherimoya,67.6,7,112,16,44.45,77.71434188434176,7,Evergreen Provisions
+789189,Mamey Sapote,54.1,3,70,19,27.99,38.4206675559765,3,Golden Grain Distributors
+890210,Salmonberries,55.6,4,80,20,32.72,53.19767736429324,4,FreshHarvest Suppliers
+901321,Thimbleberries,59.8,5,65,13,30.24,38.1743799118045,5,FreshHarvest Suppliers
+123432,Boysenberries,65.3,6,85,14,49.76,60.90853707619474,6,FreshHarvest Suppliers
+234543,Loganberries,58.0,7,77,11,41.1,62.917711765542435,7,Golden Grain Distributors
+345654,Gooseberries,61.4,3,45,15,36.9,53.32339647211017,3,Golden Grain Distributors
+456765,Mulberries,69.7,4,95,18,43.49,53.509039126694105,5,FreshHarvest Suppliers
+567876,Huckleberries,65.2,5,85,17,38.33,44.03227399836286,5,FreshHarvest Suppliers
+678987,Lingonberries,74.1,6,96,16,53.78,70.56743341331669,6,FreshHarvest Suppliers
+789098,Elderberries,60.6,7,133,19,41.18,71.15444552596601,7,FreshHarvest Suppliers
+890189,Chokeberries,62.1,3,60,20,34.28,51.901897481006166,3,FreshHarvest Suppliers
+901210,Serviceberries,66.3,4,55,13,42.31,50.69946051589369,4,Evergreen Provisions
+123321,Barberries,71.8,5,85,14,43.9,72.29232272825541,6,FreshHarvest Suppliers
+234432,Bearberries,64.5,6,75,11,39.84,63.76433732964576,6,Evergreen Provisions
+345543,Bilberries,67.9,7,105,15,52.58,67.87994361001131,7,Evergreen Provisions
+456654,Cloudberry,76.2,3,95,18,58.96,79.0514555280842,5,FreshHarvest Suppliers
+567765,Crowberry,71.7,4,68,17,38.18,55.21606738250399,4,Golden Grain Distributors
+678876,Hackberry,80.6,5,80,16,56.64,97.89093351538428,5,Evergreen Provisions
+789987,Juneberry,67.1,6,114,19,50.02,60.80430337534036,6,Evergreen Provisions
+890098,Nannyberry,68.6,7,140,20,45.77,67.81659367294523,7,FreshHarvest Suppliers
+901189,Soapberry,72.8,3,55,13,48.98,74.63949634436992,4,FreshHarvest Suppliers
+123210,Snowberry,78.3,4,85,14,40.15,59.5346009324546,6,Golden Grain Distributors
+234321,Wolfberry,71.0,5,75,11,52.42,86.00604359589305,6,Golden Grain Distributors
+345432,Yumberry,74.4,6,90,15,37.4,54.17718796161743,6,Evergreen Provisions
+456543,Ziziphus,82.7,7,126,18,61.86,87.04646599757115,7,Golden Grain Distributors
+567654,Maqui Berry,78.2,3,51,17,54.46,92.7647072390532,3,Golden Grain Distributors
+678765,Sea Buckthorn,87.1,4,65,16,47.71,52.68063562199228,4,Evergreen Provisions
+789876,Goji Berry,73.6,5,95,19,41.3,64.92335410495272,5,Evergreen Provisions
+890987,Acai Berry,75.1,6,120,20,53.91,82.34608978696446,6,Golden Grain Distributors
+901098,Golden Berry,79.3,7,91,13,40.78,72.68596385952148,7,Evergreen Provisions
+123109,Elderberry,84.8,3,85,14,61.04,103.74184874767565,6,FreshHarvest Suppliers
