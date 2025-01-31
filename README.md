@@ -11,8 +11,11 @@ streamlit_dashboard.py generates a dashboard showing a summary of products with 
 ## How to run each script?
 - First run ```pip install -r requirements.txt```
 - Next, ensure that you create a .env file and define 2 config variables in it:
-    1. OPENAI_API_BASE
-    2. OPENAI_API_KEY
+```bash
+OPENAI_API_BASE
+OPENAI_API_KEY
+```
 
+## Dashboard Preview
 ![alt text](pics/supplier_orders_disruption_dash1.png)
 ![alt text](pics/supplier_orders_disruption_dash2.png)
