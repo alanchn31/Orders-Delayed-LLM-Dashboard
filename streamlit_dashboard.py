@@ -27,7 +27,7 @@ col1, col2, col3, col4 = st.columns(4)
 col1.metric("Total Orders", total_orders)
 col2.metric("Delayed Orders", disruptions_count)
 col3.metric("Disruption Rate", f"{disruption_rate:.2f}%")
-col4.metric("Total value of disrupted items", f"${disruption_value:,.2f}")
+col4.metric("Total value of disrupted orders", f"${disruption_value:,.2f}")
 
 st.subheader("📉 Disruption by Supplier")
 data_container = st.container()

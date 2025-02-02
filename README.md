@@ -26,10 +26,10 @@ streamlit_dashboard.py generates a dashboard showing a summary of products with 
 OPENAI_API_BASE
 OPENAI_API_KEY
 ```
+- To view the dashboard, run ```streamlit run streamlit_dashboard.py```
 
 ### Dashboard Preview
-![alt text](pics/supplier_orders_disruption_dash1.png)
-![alt text](pics/supplier_orders_disruption_dash2.png)
+![alt text](pics/supplier_orders_disruption_dash.png)
 
 ## Practical Considerations / Potential Improvements
 - *Data format* - In this project, we assumed that emails were used to report orders disruption. What if suppliers and the retailer are using Electronic Data Interchange (EDI) for exchanging information? We might need to employ a Vision Language Model (VLM) instead to parse data from the semi-structured order status / order delay reports
